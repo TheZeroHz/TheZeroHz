@@ -1,12 +1,10 @@
+👋 **Hello!**:
 I'm Rakib Hasan, an embedded systems enthusiast with a passion for integrating cutting-edge technologies. From deep dives into microcontroller architectures to harnessing the power of machine learning at the edge, my journey in the tech realm is one of continuous exploration and innovation.
-🔭 **Currently**:
 - Innovating at the intersection of embedded systems and machine learning.
 - Crafting scalable solutions for real-time data processing on constrained devices.
-🛠️ **Skills & Tools**:
-- Proficient in C, C++, Python, and the ESP series.
-- Experienced with Django, TensorFlow, and cloud platforms like Google Cloud & Firebase.
-- Adept in both hardware-software co-design and front-end development.
-🌱 **Always Learning**:
+- Proficient in C, C++, Python, and the Arduino-ESP series.
+- Experienced with RTOS,Django, TensorFlow, and cloud platforms like Google Cloud & Firebase.
+- Adept in both hardware-software co-design and development.
 - Exploring advanced techniques for efficient embedded machine learning deployments.
 - Staying updated with emerging trends in the tech world to drive forward-thinking solutions.
 ## 🌐 Socials:
