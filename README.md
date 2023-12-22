@@ -1,12 +1,7 @@
-👋 **Hello!**:
-I'm Rakib Hasan, an embedded systems enthusiast with a passion for integrating cutting-edge technologies. From deep dives into microcontroller architectures to harnessing the power of machine learning at the edge, my journey in the tech realm is one of continuous exploration and innovation.
-- Innovating at the intersection of embedded systems and machine learning.
-- Crafting scalable solutions for real-time data processing on constrained devices.
-- Proficient in C, C++, Python, and the Arduino-ESP series.
-- Experienced with RTOS,Django, TensorFlow, and cloud platforms like Google Cloud & Firebase.
-- Adept in both hardware-software co-design and development.
-- Exploring advanced techniques for efficient embedded machine learning deployments.
-- Staying updated with emerging trends in the tech world to drive forward-thinking solutions.
+## Hello! I'm Rakib Hasan
+**An embedded systems enthusiast** with a passion for integrating cutting-edge technologies. From deep dives into microcontroller architectures to harnessing the power of machine learning at the edge, my journey in the tech realm is one of continuous exploration and innovation.Certainly, here's a concise paragraph combining the points
+I specialize in blending embedded systems with machine learning, crafting scalable solutions for real-time data processing on constrained devices. Proficient in C, C++, and Python, I've delved deep into the Arduino-ESP series and have hands-on experience with RTOS, Django, TensorFlow, and cloud platforms such as Google Cloud & Firebase. My expertise spans hardware-software co-design and development, and I'm constantly exploring advanced techniques in embedded machine learning. Committed to staying abreast of tech trends, I'm driven to innovate and pioneer forward-thinking solutions.
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/www.facebook.com/iamrakibulhasan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCmclthI4TeyJ3pFr7iuGWrA) 
 # 💻 Tech Stack:
@@ -15,7 +10,6 @@ I'm Rakib Hasan, an embedded systems enthusiast with a passion for integrating c
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
