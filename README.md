@@ -1,5 +1,17 @@
-# 💫 About Me:
-🔭 Currently:<br>Merging embedded systems with machine learning for real-time edge intelligence.<br><br>👯 Seeking Collaboration:<br>Projects blending embedded tech with ML; from efficient algorithms to real-world applications.<br><br>🤝 Help Wanted:<br>Insights on deploying lightweight ML models on edge devices and optimizing hardware-software co-design.<br><br>🌱 Learning:<br>Advanced techniques for efficient embedded machine learning deployments.<br><br>💬 Expertise:<br>Expert in embedded systems, ML on the edge, and hardware-software co-design.<br><br>⚡ Fun Fact:<br>There's no singular "fun fact" about me; my story defies categorization.<br>
+I'm [Rakib Hasan], an embedded systems enthusiast with a passion for integrating cutting-edge technologies. From deep dives into microcontroller architectures to harnessing the power of machine learning at the edge, my journey in the tech realm is one of continuous exploration and innovation.
+
+🔭 **Currently**:
+- Innovating at the intersection of embedded systems and machine learning.
+- Crafting scalable solutions for real-time data processing on constrained devices.
+
+🛠️ **Skills & Tools**:
+- Proficient in C, C++, Python, and the ESP series.
+- Experienced with Django, TensorFlow, and cloud platforms like Google Cloud & Firebase.
+- Adept in both hardware-software co-design and front-end development.
+
+🌱 **Always Learning**:
+- Exploring advanced techniques for efficient embedded machine learning deployments.
+- Staying updated with emerging trends in the tech world to drive forward-thinking solutions.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/www.facebook.com/iamrakibulhasan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCmclthI4TeyJ3pFr7iuGWrA) 
 # 💻 Tech Stack:
