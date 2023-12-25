@@ -14,12 +14,6 @@
 | :bulb: Innovation         | Trend awareness, Solution-driven approach                            |
 
 <br><br>
-### 👀 Currently Working On
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=TheZeroHz&repo=DiptiBraille)](https://github.com/TheZeroHz/DiptiBraille)
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Sudipa45&repo=M.A.R.V.I.N.)](https://github.com/Sudipa45/M.A.R.V.I.N.)
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=TheZeroHz&repo=RTOS)](https://github.com/TheZeroHz/RTOS)
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=TheZeroHz&repo=BrokerZero)](https://github.com/TheZeroHz/BrokerZero)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheZeroHz&theme=white&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 <h3 align="left">💻Tech Stack</h3>
 <a href="#">
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
