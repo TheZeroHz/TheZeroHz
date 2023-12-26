@@ -6,7 +6,7 @@
 
 | **Category**         | **Skills & Tools**                                                  |
 |----------------------|---------------------------------------------------------------------|
-| :gear: Embedded Systems  | Arduino, ESP, Smt & PI series, Real Time Operating System          |
+| :gear: Embedded Systems  | Arduino, ESP, STM & PI series, Real Time Operating System          |
 | :robot: Machine Learning | TensorFlow, Keras, Edge Impulse                                      |
 | :computer: Programming  | C, C++, Python, PHP, HTML, CSS                                       |
 | :cloud: Frameworks & Cloud | Django, ESP-IDF, Arduino, Google Cloud, Firebase                     |
