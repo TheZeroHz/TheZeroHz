@@ -1,3 +1,4 @@
+> "People who are really serious about software should make their own hardware." -Alan Kay
 <h1 align="right">&nbsp&nbsp&nbsp&nbspHi 👋, I'm Rakibul Hasan &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://komarev.com/ghpvc/?username=TheZeroHz&label=Profile%20views&color=3399FF&style=flat" alt="[TheZeroHz](https://github.com/TheZeroHz/DiptiBraille)" /></h1>
 <h3 align="center">An embedded systems enthusiast from Dhaka,Bangladesh
 </h3>
@@ -14,6 +15,7 @@
 | :bulb: Innovation         | Trend awareness, Solution-driven approach                            |
 
 <br><br>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheZeroHz&theme=white&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <h3 align="left">💻Tech Stack</h3>
 <a href="#">
