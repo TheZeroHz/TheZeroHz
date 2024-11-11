@@ -16,7 +16,7 @@
 
 <br><br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheZeroHz&theme=white&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheZeroHz&theme=white&hide_border=false&include_all_commits=true&count_private=false)
 <h3 align="left">💻Tech Stack</h3>
 <a href="#">
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
