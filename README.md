@@ -1,13 +1,13 @@
 > ### "People who are really serious about software should make their own hardware." -Alan Kay
 <h1 align="right">&nbsp&nbsp&nbsp&nbspHi 👋, I'm Rakibul Hasan &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://komarev.com/ghpvc/?username=TheZeroHz&label=Profile%20views&color=3399FF&style=flat" alt="[TheZeroHz](https://github.com/TheZeroHz/DiptiBraille)" /></h1>
-<h3 align="center">An embedded systems enthusiast from Dhaka,Bangladesh
+<h3 align="center">An EMBEDEED AI enthusiast from Dhaka, Bangladesh
 </h3>
 
 ### Key Skills
 
 | **Category**         | **Skills & Tools**                                                  |
 |----------------------|---------------------------------------------------------------------|
-| :gear: Embedded Systems  | Arduino, ESP, STM & PI series, Real Time Operating System          |
+| :gear: Embedded Systems  | Arduino, ESP, STM & PI series, Real-Time Operating System          |
 | :robot: Machine Learning | TensorFlow, Keras, Edge Impulse                                      |
 | :computer: Programming  | C, C++, Python, PHP, HTML, CSS                                       |
 | :cloud: Frameworks & Cloud | Django, ESP-IDF, Arduino, Google Cloud, Firebase                     |
